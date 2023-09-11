@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <h1>できた</h1>
+    <h1>できた!</h1>
   )
 }
 
